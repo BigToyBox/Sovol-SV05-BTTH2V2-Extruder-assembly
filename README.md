@@ -14,8 +14,8 @@ H2V2 probe mount
 Using the fan duct as a guide drill the gantry plate
 
 ### Assemble
-Study the sequence before diving into the assembly. Some nuts are blind behind the H2 extruder so they need to be dropped in first. Then mount the H2. Then attach the assembly to the gantry. 
+^ Study the sequence before diving into the assembly. Some nuts are blind behind the H2 extruder so they need to be dropped in first. Then mount the H2. Then attach the assembly to the gantry. 
 
-Mount the fan guard and probe
+^ Mount the fan guard and probe
 
-Wire it up
+^ Wire it up
