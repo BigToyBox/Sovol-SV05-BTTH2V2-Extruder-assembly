@@ -1,6 +1,10 @@
 # BTT-H2V2-Extruder-assembly
 A rear fan for the H2V2 extruder. It works perfectly on the Creality gantry by drilling for the mount bolts. Sovol printers use the Creality gantry so they are compatible too. 
 
+![image](https://github.com/BigToyBox/BTT-H2V2-Extruder-assembly/assets/120577343/fef0ab3d-7de8-4a29-bbad-864e5401c434)
+
+
+
 ### Print the parts
 H2V2 fan duct
 H2V2 fan guard
