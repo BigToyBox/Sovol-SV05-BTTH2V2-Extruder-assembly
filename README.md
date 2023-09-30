@@ -2,3 +2,16 @@
 A rear fan for the H2V2 extruder. It works perfectly on the Creality gantry by drilling for the mount bolts. Sovol printers use the Creality gantry so they are compatible too. 
 
 ### Print the parts
+H2V2 fan duct
+H2V2 fan guard
+H2V2 probe mount
+
+### Drill the gantry plate
+Using the fan duct as a guide drill the gantry plate
+
+### Assemble
+Study the sequence before diving into the assembly. Some nuts are blind behind the H2 extruder so they need to be dropped in first. Then mount the H2. Then attach the assembly to the gantry. 
+
+Mount the fan guard and probe
+
+Wire it up
