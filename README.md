@@ -1,5 +1,5 @@
 # Sovol SV05 - BTT H2V2 Extruder assembly
-A rear fan for the H2V2 extruder. It works perfectly on the Creality gantry by drilling for the mount bolts. All of the back fan designs also work with the BTT Hermit Crab tool plate!
+A rear fan for the H2V2 extruder. It works perfectly on the Sovol gantry by drilling for the mount bolts. All of the back fan designs also work with the BTT Hermit Crab tool plate!
 ![image](https://github.com/BigToyBox/BTT-H2V2-Extruder-assembly/assets/120577343/fef0ab3d-7de8-4a29-bbad-864e5401c434)
 
 
